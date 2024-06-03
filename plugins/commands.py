@@ -62,7 +62,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('💡ᴜᴩᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ💡', url='https://t.me/cv_official_channel')
           ],[
-            InlineKeyboardButton('🌐 ʜᴇʟᴩ', callback_data='help'),
+            InlineKeyboardButton('🌐 ᴄʜᴀɴɴᴇʟ', url='t.me/pirate_flicks'),
             InlineKeyboardButton('ᴀᴅᴅ 🌐', url="http://t.me/ThemakiBot?startgroup=true")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
