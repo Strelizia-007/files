@@ -4,18 +4,18 @@
 
 
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ {},【ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ】ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ +└ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ┘+└sᴛʀᴇᴀᴍ / ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ ғᴇᴀᴛᴜʀᴇ┘+├ᴄᴜꜱᴛᴏᴍ ᴜʀʟ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ┤+  ᢵᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ sᴜᴘᴘᴏʀᴛ ᢴ ᢾᴀɴᴅ ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇᢿ</b>"""
+    START_TXT="""<b>𝖧𝗂 👋 , {}\n𝖨 𝖺𝗆 𝖺 𝖿𝗂𝗅𝖾 𝗌𝗍𝗈𝗋𝖾 𝖻𝗈𝗍, 𝗂 𝖼𝖺𝗇 𝗀𝖾𝗇𝖾𝗋𝖺𝗍𝖾 𝗌𝗁𝖺𝗋𝖾𝖺𝖻𝗅𝖾 𝗅𝗂𝗇𝗄𝗌 𝖿𝗈𝗋 𝖿𝗂𝗅𝖾𝗌!!\n\n© 𝖶𝗈𝗋𝗄𝗂𝗇𝗀 𝗎𝗇𝖽𝖾𝗋 [𝖯𝗂𝗋𝖺𝗍𝖾 𝖭𝖾𝗍𝗐𝗈𝗋𝗄](t.me/pirate_flicks).</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>💈 ɴᴀᴍᴇ : {file_name}
 
-sɪᴢᴇ ⚙️: {file_size}
+🛟 sɪᴢᴇ : {file_size}
 
-Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/vj_botz)</b>""" 
+© [ᴩɪʀᴀᴛᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ](https://t.me/pirate_flicks)</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
